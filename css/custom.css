@@ -1,0 +1,33 @@
+.timeIsMoney {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+p.timeIsMoney {
+    font-style: italic;
+}
+
+.satisfaction {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.name {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    color: #0275d8;
+}
+
+.footer {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+    align-items: center;
+}
+
+
