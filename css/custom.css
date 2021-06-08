@@ -30,4 +30,22 @@ p.timeIsMoney {
     align-items: center;
 }
 
+.fab {
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    }
+    
+    .fab:hover {
+    opacity: 0.7;
+    }
+    
+    .fa-whatsapp {
+    background: #00bb2d;
+    color: white;
+    }
+
 
