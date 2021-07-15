@@ -1,0 +1,26 @@
+{
+  "name": "basic_resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis8811/Basic_resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Luis Manuel Suárez González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis8811/Basic_resume/issues"
+  },
+  "homepage": "https://github.com/Luis8811/Basic_resume#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.2"
+  }
+}
