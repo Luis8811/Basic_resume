@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Luis8811/Basic_resume#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "cookie-consent-js": "^1.4.12"
   }
 }
