@@ -8,12 +8,15 @@
     <meta name="description" content="Curriculum vitae">
     <meta name="keywords" content="Luis Manuel Su&aacute;rez Gonz&aacute;lez, software developer, curriculum vitae">
     <link  rel="icon"   href="../images/favicon.png" type="image/png" />
+    <!-- RGPD -->
+    <link rel="stylesheet" href="/node_modules/cookie-consent-js/src/cookie-consent.css"/>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/custom.css">
     <link rel="stylesheet" href="../css/w3.css">
     <!--Icon library -->
     <link rel="stylesheet" href="../node_modules/@fortawesome/fontawesome-free/css/all.css">
+
     <title>Luis Manuel Su&aacute;rez Gonz&aacute;lez</title>
   </head>
   <body>
@@ -158,5 +161,20 @@
       </footer>
       <script src="../js/jquery-3.5.1.slim.js"></script>
       <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+      <!--RGPD-->
+     <!--  <script src="/node_modules/cookie-consent-js/src/cookie-consent.js"></script>
+      <script>
+      var cookieConsent = new CookieConsent({privacyPolicyUrl: "/privacy-policy.html"})
+      if (cookieConsent.trackingAllowed()) {
+      // Google Analytics code and/or other tracking code
+      }
+     
+      </script> -->
+      <div class="container">
+        <script src="../node_modules/cookie-consent-js/src/cookie-consent.js"></script>
+        <script>
+            var cookieConsent = new CookieConsent({privacyPolicyUrl: "privacy-policy.html"})
+        </script>
+    </div>
   </body>
 </html>
